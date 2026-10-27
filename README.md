@@ -3,9 +3,8 @@
 Reproducible pipeline accompanying the manuscript:
 
 > Özdemir, M., Erarslan, K. *Physics-Informed Neural Networks with Kriging-Prior Residual
-> Learning: A Validated Benchmark for Coal Seam Thickness Estimation.* Submitted to the
-> *Arabian Journal for Science and Engineering* (2026).
-
+> Learning: A Validated Benchmark for Coal Seam Thickness Estimation.*
+> 
 This repository contains the complete, leakage-free, seed-controlled benchmarking pipeline
 comparing Universal Kriging, a standalone physics-informed neural network (PINN), and a
 Kriging-prior residual-learning hybrid, for spatial estimation of coal seam thickness at an
